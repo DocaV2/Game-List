@@ -1,3 +1,4 @@
-getgenv().Games = {
-    [3623096087] = "https://raw.githubusercontent.com/DocaV2/Loader/refs/heads/main/Muscle%20Legends"
+local Games = {
+    [3623096087] = "https://raw.githubusercontent.com/DocaV2/Loader/refs/heads/main/Muscle%20Legends",
 }
+return Games
