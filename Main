@@ -1,5 +1,5 @@
 local Games = {
-  [3623096087] = "https://raw.githubusercontent.com/DocaV2/Loader/refs/heads/main/Muscle%20Legends", -- Muscle legends 
+  [1268927906] = "https://raw.githubusercontent.com/DocaV2/Loader/refs/heads/main/Muscle%20Legends", -- Muscle legends 
 }
 
 return Games
