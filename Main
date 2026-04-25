@@ -1,4 +1,6 @@
 local Games = {
-    [3623096087] = "https://raw.githubusercontent.com/DocaV2/Loader/refs/heads/main/Muscle%20Legends",
+  [994732206] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/Blox%20Fruit.lua", -- Blox Fruit
+  [1268927906] = "https://raw.githubusercontent.com/DocaV2/Loader/refs/heads/main/Muscle%20Legends",
 }
+
 return Games
